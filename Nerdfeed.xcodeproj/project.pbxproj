@@ -20,7 +20,6 @@
 		235D0C4519783E8D003051F7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 235D0C4319783E8D003051F7 /* InfoPlist.strings */; };
 		235D0C4719783E8D003051F7 /* NerdfeedTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 235D0C4619783E8D003051F7 /* NerdfeedTests.m */; };
 		235D0C5219783EB7003051F7 /* BNRCoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 235D0C5119783EB7003051F7 /* BNRCoursesViewController.m */; };
-		235D0C5519784877003051F7 /* BNRWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 235D0C5419784877003051F7 /* BNRWebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		235D0C4619783E8D003051F7 /* NerdfeedTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NerdfeedTests.m; sourceTree = "<group>"; };
 		235D0C5019783EB7003051F7 /* BNRCoursesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BNRCoursesViewController.h; path = ../BNRCoursesViewController.h; sourceTree = "<group>"; };
 		235D0C5119783EB7003051F7 /* BNRCoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BNRCoursesViewController.m; path = ../BNRCoursesViewController.m; sourceTree = "<group>"; };
-		235D0C5319784877003051F7 /* BNRWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRWebViewController.h; sourceTree = "<group>"; };
-		235D0C5419784877003051F7 /* BNRWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRWebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +110,6 @@
 		235D0C2719783E8D003051F7 /* Nerdfeed */ = {
 			isa = PBXGroup;
 			children = (
-				235D0C5319784877003051F7 /* BNRWebViewController.h */,
-				235D0C5419784877003051F7 /* BNRWebViewController.m */,
 				235D0C5019783EB7003051F7 /* BNRCoursesViewController.h */,
 				235D0C5119783EB7003051F7 /* BNRCoursesViewController.m */,
 				235D0C3019783E8D003051F7 /* BNRAppDelegate.h */,
@@ -250,7 +245,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				235D0C5519784877003051F7 /* BNRWebViewController.m in Sources */,
 				235D0C2E19783E8D003051F7 /* main.m in Sources */,
 				235D0C3219783E8D003051F7 /* BNRAppDelegate.m in Sources */,
 				235D0C5219783EB7003051F7 /* BNRCoursesViewController.m in Sources */,

@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Big Nerd Ranch. All rights reserved.
 //
 #import "BNRCoursesViewController.h"
-#import "BNRWebViewController.h"
+//#import "BNRWebViewController.h"
 
 @interface BNRCoursesViewController () <NSURLSessionDelegate>
 
@@ -90,10 +90,10 @@
     NSDictionary *course = self.courses[indexPath.row];
     NSURL *URL = [NSURL URLWithString:course[@"url"]];
     
-    self.webViewController.title = course[@"title"];
+ /*   self.webViewController.title = course[@"title"];
     self.webViewController.URL = URL;
     [self.navigationController pushViewController:self.webViewController
-                                         animated:YES];
+                                         animated:YES];*/
 }
 
 - (void)  URLSession:(NSURLSession *)session task:(NSURLSessionTask *)task
