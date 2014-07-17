@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFEB2D5F-CE2D-436F-86AF-FCBD2F39DA7D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Nerdfeed</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C979F12-30F4-4EEC-A06E-398118F19D57</key>
+		<string>https://github.com/maxziv/iOSTrainingApps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Nerdfeed/Nerdfeed.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C979F12-30F4-4EEC-A06E-398118F19D57</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maxziv/iOSTrainingApps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C979F12-30F4-4EEC-A06E-398118F19D57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C979F12-30F4-4EEC-A06E-398118F19D57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dev</string>
+		</dict>
+	</array>
+</dict>
+</plist>
