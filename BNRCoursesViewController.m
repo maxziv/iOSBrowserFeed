@@ -21,7 +21,7 @@
 {
     self = [super initWithStyle:style];
     if (self) {
-        self.navigationItem.title = @"BNR Courses";
+        self.navigationItem.title = @"All Courses";
         
         NSURLSessionConfiguration *config =
         [NSURLSessionConfiguration defaultSessionConfiguration];
